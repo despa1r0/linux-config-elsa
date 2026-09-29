@@ -1,0 +1,35 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "type": "kitty",
+    "source": "/home/cqa/Downloads/2bpix.jpg",
+    "width": 18,
+    "height": 9,
+    "padding": {
+      "top": 1,
+      "left": 1
+    }
+  },
+  "display": {
+    "color": {
+      "keys": "38;2;184;196;208"
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "format": "{#38;2;173;216;230}YoRHa No.2 Type B"
+    },
+    "separator",
+    "os",
+    "host",
+    "display",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "break",
+    "colors"
+  ]
+}

@@ -1,0 +1,77 @@
+# Environment files
+**/.env
+**/.env.*
+
+# Private keys, certificates, and encrypted key containers
+**/*.key
+**/*.pem
+**/*.p12
+**/*.pfx
+**/*.jks
+**/*.keystore
+**/*.ovpn
+**/.ssh/
+**/.gnupg/
+**/private-keys-v1.d/
+
+# Credentials, auth stores, tokens, and cloud/Kubernetes identities
+**/credentials
+**/credentials.*
+**/secrets/
+**/secret.json
+**/secrets.json
+**/token.json
+**/tokens.json
+**/.netrc
+**/.authinfo
+**/.npmrc
+**/.pypirc
+**/auth.json
+**/hosts.yml
+**/.aws/
+**/.azure/
+**/.config/gcloud/
+**/.kube/
+**/kubeconfig
+**/kubeconfig.*
+**/.docker/config.json
+**/.cargo/credentials
+**/.cargo/credentials.toml
+**/keyrings/
+
+# Password managers and browser/session databases
+**/*.kdbx
+**/*.1pux
+**/Login Data
+**/Cookies
+**/Cookies-journal
+**/Web Data
+**/Session Storage/
+**/Local Storage/
+
+# Editor/application state that can contain history or session data
+**/History/
+**/globalStorage/
+**/workspaceStorage/
+**/state.vscdb
+**/state.vscdb.*
+**/*history*
+
+# Infrastructure state
+**/*.tfstate
+**/*.tfstate.*
+
+# Caches, logs, and temporary files
+**/.cache/
+**/cache/
+**/Cache/
+**/logs/
+**/Logs/
+**/*.log
+**/*.tmp
+**/*.temp
+**/*.swp
+**/*.swo
+**/*~
+**/.DS_Store
+**/Thumbs.db

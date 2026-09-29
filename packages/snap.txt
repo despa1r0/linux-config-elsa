@@ -1,0 +1,23 @@
+# Fallback inventory: snap list timed out; values come from /snap/*/current symlinks.
+# name	revision
+antigravity	5
+bare	5
+code	252
+core18	3084
+core20	2866
+core24	1643
+desktop-security-center	188
+firefox	8585
+firmware-updater	226
+gnome-3-28-1804	198
+gnome-46-2404	153
+gtk-common-themes	1535
+mesa-2404	1839
+obsidian	68
+perplexity-desktop	33
+prompting-client	228
+snap-store	1390
+snapd	27738
+snapd-desktop-integration	391
+surfshark	94
+telegram-desktop	7150
